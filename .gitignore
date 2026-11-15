@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+data/
+test-results/
+playwright-report/
+*.log
+.local/
+tmp/
+output/*
+!output/presentation/
+output/presentation/*
+!output/presentation/Minutes_Group_43_GitHub.pptx
+!output/presentation/Minutes_Direct_Speaking_Script.md
